@@ -1,4 +1,4 @@
-# Airport-Management-System
+# Airport-Management-System-Terminal-Base-Project
 It is a group project (Group 10) of CSE222 course of Gebze Technical University.
 
 ## Installation
